@@ -1,0 +1,76 @@
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\appsettings.Development.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\appsettings.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Educational System Server.exe
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Educational System Server.deps.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Educational System Server.runtimeconfig.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Educational System Server.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Educational System Server.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.csproj.AssemblyReference.cache
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.AssemblyInfoInputs.cache
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.AssemblyInfo.cs
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.csproj.CoreCompileInputs.cache
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.MvcApplicationPartsAssemblyInfo.cs
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.MvcApplicationPartsAssemblyInfo.cache
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\staticwebassets.build.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\staticwebassets.development.json
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\scopedcss\bundle\Educational System Server.styles.css
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.csproj.CopyComplete
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\refint\Educational System Server.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\Educational System Server.genruntimeconfig.cache
+F:\EducationalSystem\server\Educational System Server\Educational System Server\obj\Debug\net6.0\ref\Educational System Server.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\EntityFramework.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.CodeDom.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Contracts.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Domain.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\persistence.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\persistence.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Contracts.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Domain.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Presentation.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Services.Abstractions.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Presentation.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Services.Abstractions.pdb
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Npgsql.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Services.dll
+F:\EducationalSystem\server\Educational System Server\Educational System Server\bin\Debug\net6.0\Services.pdb

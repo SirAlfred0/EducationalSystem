@@ -1,0 +1,58 @@
+div.container
+{
+  background-color: #55D8C1;
+  padding: 3rem;
+}
+
+div.container > ul
+{
+  display: flex;
+  padding: 2rem 5rem;
+  justify-content: space-evenly;
+}
+
+
+div.container > ul > li:nth-child(1),div.container > ul > li:nth-child(3)
+{
+  border-radius: 5%;
+  background-color: #FCF69C;
+  padding: 2rem;
+  text-align: center;
+  max-height: 50rem;
+  overflow-y: scroll;
+  color: #AB46D2;
+  font-size: 3rem;
+}
+
+div.container > ul > li:nth-child(1) > ul,div.container > ul > li:nth-child(3) > ul
+{
+  margin: 2rem 0;
+}
+
+div.container > ul > li:nth-child(1) > ul > li,div.container > ul > li:nth-child(3) > ul > li
+{
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+
+div.container > ul > li:nth-child(1) > ul > li:hover,div.container > ul > li:nth-child(3) > ul > li:hover
+{
+  cursor: pointer;
+}
+
+
+div.container > ul > li:nth-child(2) > ul > li
+{
+  margin: 5rem 0;
+}
+
+
+div.container > input
+{
+  margin: 2rem auto;
+  display: block;
+  width: 80%;
+  font-size: 3rem;
+  color: #AB46D2;
+  padding: 1rem;
+}

@@ -1,0 +1,34 @@
+<div class="container">
+
+  <ul>
+    <li>
+      unsigned Students
+      <ul>
+        <li *ngFor="let item of unsignedStudents" (dblclick)="SignStudent(item)">{{item.name}}</li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li>
+          <app-custom-select [defaultValue]="'Select Class'" (emitter)="NewClass($event)" [options]="classes"></app-custom-select>
+        </li>
+        <li>
+          <app-custom-select [defaultValue]="'Select Teacher'" (emitter)="NewTeacher($event)" [options]="teachers"></app-custom-select>
+        </li>
+        <li>
+          <app-custom-select [defaultValue]="'Select Location'" (emitter)="NewLoc($event)" [options]="locations"></app-custom-select>
+        </li>
+        <li>
+          <app-custom-select [defaultValue]="'Select Day'" (emitter)="NewTime($event)" [options]="times"></app-custom-select>
+        </li>
+      </ul>
+    </li>
+    <li>
+      signed Students
+      <ul>
+        <li *ngFor="let item of signedStudents" (dblclick)="UnsignStudent(item)">{{item.name}}</li>
+      </ul>
+    </li>
+  </ul>
+<input type="submit" (click)="CreateClass()" value="Create Class">
+</div>

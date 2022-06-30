@@ -1,0 +1,14 @@
+F:\EducationalSystem\server\Educational System Server\Contracts\bin\Debug\net6.0\Contracts.deps.json
+F:\EducationalSystem\server\Educational System Server\Contracts\bin\Debug\net6.0\Contracts.runtimeconfig.json
+F:\EducationalSystem\server\Educational System Server\Contracts\bin\Debug\net6.0\Contracts.dll
+F:\EducationalSystem\server\Educational System Server\Contracts\bin\Debug\net6.0\Contracts.pdb
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.dll
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.pdb
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\Contracts.genruntimeconfig.cache
+F:\EducationalSystem\server\Educational System Server\Contracts\obj\Debug\net6.0\ref\Contracts.dll

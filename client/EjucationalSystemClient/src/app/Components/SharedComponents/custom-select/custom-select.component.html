@@ -1,0 +1,6 @@
+<div class="select">
+  <select >
+    <option selected disabled>{{defaultValue}}</option>
+    <option *ngFor="let item of options" value="item.id" (click)="Change(item.id)">{{item.name}}</option>
+  </select>
+</div>

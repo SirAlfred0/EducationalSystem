@@ -1,0 +1,54 @@
+div.container
+{
+  background-color: #FF6FB5;
+  display: block;
+  width: 100%;
+}
+
+
+div.container > ul
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+div.container > ul > li
+{
+  width: 50%;
+  display: inline-block;
+  padding: 4rem;
+}
+
+
+div.container > ul > li > input
+{
+  display: inline-block;
+  width: 100%;
+  padding: 1rem;
+  margin: 2rem auto;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  color: #AB46D2;
+}
+
+div.container > ul > li > p
+{
+  color: #fff;
+  font-size: 1.5rem;
+  text-align: justify;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #AB46D2;
+  padding: 2rem;
+  border-radius: 3%;
+}
+
+input[type="submit"]:hover
+{
+  background-color: #FCF69C;
+}
+
+div.container > ul > li > input[type="text"]:focus
+{
+  box-shadow: rgba(99, 99, 99, 0.2) inset 0 0 10px;
+}

@@ -1,0 +1,17 @@
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Domain.dll
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Domain.pdb
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Contracts.dll
+F:\EducationalSystem\server\Educational System Server\Domain\bin\Debug\net6.0\Contracts.pdb
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.dll
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\refint\Domain.dll
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.pdb
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+F:\EducationalSystem\server\Educational System Server\Domain\obj\Debug\net6.0\ref\Domain.dll
